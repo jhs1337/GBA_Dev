@@ -1,0 +1,15 @@
+A list of software / resources I use to make ROMs (current and future incorporation of other software has been taken into account):
+
+GBA:
+-devkitadv -- Main GBA software development environment
+-Aseprite
+-pcx2gba
+-png2gba
+-Tiler
+-?
+
+Gameboy/GBC:
+-GBstudio
+-Gameboy Map Maker
+-Aseprite
+
