@@ -10,7 +10,7 @@ So, here we go:
 -The folder "gbasrc" contains ALL the source code for the different ROMs I'm making. Within, each Rom is separated into its own subfolder.... or at least
 it is on my PC; github deletes subfolders.
 
-*** NOT UPLOADED RN!!!! -->-
+NOT UPLOADED RN! -->-
 The folder "devkitadv" contains all the install data of the development environment, which was developed by Jason Wilkins (HUGE thanks to him!!!)***
 
 -The folder "assets" contains the image sprites and .aseprite files used to make assets for the games. They're all designed in Aseprite, then converted
